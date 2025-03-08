@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import { Link, useNavigate } from "react-router-dom";
-import "../app.css"; // Make sure this path is correct
+import "../App.css";
+ // Make sure this path is correct
 
 function Navbar() {
   const [user, setUser] = useState(null);

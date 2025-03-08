@@ -1,6 +1,7 @@
 // src/components/Restaurants.jsx
 import React from "react";
-import "../app.css";
+import "../App.css";
+
 
 const Restaurants = () => {
   return (

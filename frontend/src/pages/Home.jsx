@@ -1,5 +1,7 @@
 import React from "react";
-import "../app.css"; // Make sure this file is properly linked
+import "../App.css";
+
+ // Make sure this file is properly linked
 
 const Home = () => {
   return (

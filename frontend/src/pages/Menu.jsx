@@ -1,5 +1,6 @@
 import React from "react";
-import "../app.css"; // Ensure this is correctly imported
+import "../App.css";
+ // Ensure this is correctly imported
 
 const menuItems = [
   { id: 1, name: "Margherita Pizza", price: "₹299", image: "pzjpg.jpg" },
